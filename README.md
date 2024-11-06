@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @PavineePattanapornchai
+# 👋 Hi, I’m Pavinee Pattanapornchai (but you can call me Grace)!
 
 - 👀 I’m passionate about **streamlining processes, building efficient backends, and diving into the world of DevOps and MLOps!**
 - 🌱 I’m currently exploring **Kubernetes, CI/CD pipelines, and all things backend** to keep scaling up my skills.
