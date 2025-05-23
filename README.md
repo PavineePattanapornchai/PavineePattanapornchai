@@ -39,7 +39,7 @@ Machine Learning | DevOps | CI/CD | Full-Stack Development | Data Engineering
 ### 📫 How to reach me:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pavineepattanapornchai/)
 - 🐙 [GitHub](https://github.com/PavineePattanapornchai)
-- 📧 pavinee.pattanapornchai@gmail.com
+- 📧 gracepattana@gmail.com
 
 ---
 
