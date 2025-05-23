@@ -14,8 +14,6 @@
 
 ---
 
-### 📌 Highlight Skills:
-
 ### 📌 Technical Skills
 <p align="left">
   <!-- Languages -->
