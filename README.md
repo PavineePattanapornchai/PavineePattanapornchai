@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Pavinee Pattanapornchai
+# 👋 Hi there, I'm Pavinee Pattanapornchai (Grace)
 
 🎓 Final-year Digital Engineering student at SIIT (Thammasat University)  
 💡 Interested in Machine Learning, DevOps, Cloud, and Security  
