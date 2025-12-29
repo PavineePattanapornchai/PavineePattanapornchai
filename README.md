@@ -51,11 +51,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab"/>
 </p>
-
----
-
-## Currently Learning
-
-- Kubernetes orchestration  
-- Cloud & MLOps pipeline design  
-- NLP & model deployment  
