@@ -1,7 +1,5 @@
 # Pavinee Pattanapornchai
 
-Final-year Digital Engineering student at SIIT, Thammasat University (graduating July 2025), with strong interest in Machine Learning, DevOps, Cloud, and Application Security. Experienced in building real-world solutions through full-stack development, MLOps pipelines, and system testing.
-
 📍 Bangkok, Thailand  
 📫 gracepattana@gmail.com | [LinkedIn](https://www.linkedin.com/in/pavinee-pattanapornchai-1a34b52aa/) | [GitHub](https://github.com/PavineePattanapornchai)
 
